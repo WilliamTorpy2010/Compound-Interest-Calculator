@@ -1,1 +1,0 @@
-# Compound-Interest-Calculator
