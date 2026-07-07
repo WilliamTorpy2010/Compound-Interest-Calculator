@@ -1,10 +1,8 @@
-"""
 Compound Interest Calculator
 
 Calculates monthly compound interest.
 
 
-"""
 
 
 print("==============================")
