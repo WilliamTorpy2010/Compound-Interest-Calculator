@@ -3,7 +3,7 @@ Compound Interest Calculator
 
 Calculates monthly compound interest.
 
-Created for EFDS practice project.
+
 """
 
 
